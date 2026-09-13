@@ -1,3 +1,5 @@
 # Core library has zero third-party dependencies (stdlib only).
 # This is only needed to run the test suite:
 pytest>=8.0.0
+Flask
+gunicorn
